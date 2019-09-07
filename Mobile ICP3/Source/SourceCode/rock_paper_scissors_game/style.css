@@ -1,0 +1,16 @@
+.mainBody{
+    /*background: url(images/1.jpg); */
+    background-size : cover;
+    background-color: beige;
+}
+h2{
+    color: Black;
+    font-family: "Courier New";
+    font-size: 30px;
+}
+
+h3{
+    color: Black;
+    font-family: "Courier New";
+    font-size: 30px;
+}
