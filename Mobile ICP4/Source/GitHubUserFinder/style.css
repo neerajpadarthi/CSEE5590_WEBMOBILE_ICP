@@ -1,0 +1,125 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  border-top: 5px solid #4c4066;
+  margin: 0px auto;
+  font-size: 14px;
+  color: #666666;
+  font-size: 16px;
+}
+
+header {
+  text-align: center;
+  background-color: #fdfdfd;
+  border-bottom: 1px solid #e5e2e0;
+}
+
+#logo {
+  position: relative;
+  top: -2px;
+}
+
+#container {
+  width: 1040px;
+  margin: 0px auto;
+  min-height: 750px;
+  text-align: center;
+}
+
+input[type='text'] {
+  height: 2.2em;
+  font-size: 2em;
+  width: 50%;
+  padding: 5px;
+}
+
+.information, .avatar {
+  vertical-align: top;
+  display: inline-block;
+}
+
+.information {
+  text-align: center;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.search {
+  text-align: center;
+  margin: 50px auto;
+}
+
+h2 {
+  padding: 5px;
+}
+
+.profile {
+  height: 130px;
+  width: 150px;
+  padding: 90px 30px 0;
+  display: block;
+  background-color: purple;
+  text-decoration: none;
+  color: white;
+  font-width: bold;
+}
+
+.profile:hover {
+  background-color: #b300b3;
+}
+
+input[type=text] {
+  /*width: 70%;*/
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: beige;
+  color: black;
+  font-family: "Courier New";
+}
+
+.repolist {
+  display: block;
+  border-color: black;
+  clear: both;
+  /*background-color: #3CBC8D;*/
+  /*width: 50%;*/
+  /*alignment: center;*/
+  /*margin-left: 70px;*/
+}
+.repolist {
+  display: block;
+  clear: both;
+  width: 100%;
+}
+.repolist ul {
+  font-size: 1.2em;
+}
+.repolist ul li {
+  display: block;
+}
+.repolist ul li a span {
+  font-family: "Courier New", Courier, "Lucida Typewriter", monospace;
+  font-size: 0.9em;
+}
+.repolist ul li a {
+  font-weight: bold;
+  padding: 6px 9px;
+  display: block;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  border: 1px solid #356492;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  color: #fff;
+  background-color: #3673af;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#5597d8), to(#3673af));
+  background-image: -webkit-linear-gradient(top, #5597d8, #3673af);
+  background-image: -moz-linear-gradient(top, #5597d8, #3673af);
+  background-image: -ms-linear-gradient(top, #5597d8, #3673af);
+  background-image: -o-linear-gradient(top, #5597d8, #3673af);
+  background-image: linear-gradient(top, #5597d8, #3673af);
+}
