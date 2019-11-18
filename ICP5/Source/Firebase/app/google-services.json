@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659915820518",
+    "firebase_url": "https://fir-mobile-web.firebaseio.com",
+    "project_id": "fir-mobile-web",
+    "storage_bucket": "fir-mobile-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659915820518:android:96594e8599944dec689a27",
+        "android_client_info": {
+          "package_name": "com.neeraj.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659915820518-sn2es0or4abi104ho92topbtm1i0l13g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0jNdIJ4kCOpvhuRUbPrQUEgLQ1KNPxEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659915820518-sn2es0or4abi104ho92topbtm1i0l13g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
